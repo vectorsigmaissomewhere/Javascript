@@ -1,1 +1,16 @@
+Windows Object
+alert() confirm() prompt() open() close() setTimeout()
+pop out messages to the user as well as ask user about the input
+
+
+History Object 
+represents an array of urls that the user have recently visited
+window.history 
+or just history
+ length 
+ forward()
+ back()
+ go()
+ 
+ 
 
