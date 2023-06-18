@@ -12,5 +12,12 @@ or just history
  back()
  go()
  
- 
+ Navigator Object 
+ is used for browser detecttion.It is used to get browser information such as 
+ appName,appCodeName,userAgent
+for example 
+document.writeln(window.navigator.appCodeName);
+or
+document.writeln(navigator.appCodeName);
+
 
