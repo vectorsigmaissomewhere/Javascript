@@ -20,4 +20,11 @@ document.writeln(window.navigator.appCodeName);
 or
 document.writeln(navigator.appCodeName);
 
+Screen Object
+hold information of browser screen.It can be used to display screen width,height,colorDepth,pixelDepth etc
+
+for example 
+document.writeln("<br/>screen.width:"+window.screen.wdith);
+or 
+document.writeln("<br>screen.height:"+screen.height);
 
